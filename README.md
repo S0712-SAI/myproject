@@ -1,2 +1,2 @@
 # myproject
-learning GitHub with DevOps
+It is a part of DevOps Hackathon
